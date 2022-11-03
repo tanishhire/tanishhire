@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tanishhire5" target="blank"><img src="https://img.shields.io/twitter/follow/tanishhire5?logo=twitter&style=for-the-badge" alt="tanishhire5" /></a> </p>
 
-- ⚡ Fun fact **I am a mechanical engineer**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
